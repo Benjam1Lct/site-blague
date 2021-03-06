@@ -1,0 +1,16 @@
+* {
+	font-family: Calibri;
+}
+
+ h1 {
+   color: darkblue;
+ }
+
+ h6 {
+   color: black;
+   font-weight: bold;
+ }
+
+.cot {
+  font-size: 125%
+}
